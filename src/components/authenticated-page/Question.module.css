@@ -1,0 +1,23 @@
+.answers {
+  margin-top: 1vh;
+  margin-left: 0.5vw;
+  list-style-type: none;
+}
+
+.answers li {
+  display: flex;
+  margin-bottom: 0.5vh;
+}
+
+.answers li:last-of-type {
+  margin-bottom: 0;
+}
+
+.answers label {
+  margin-right: 0.5vw;
+}
+
+.answers input[type="radio"] {
+  margin-right: 0.5vw;
+  cursor: pointer;
+}

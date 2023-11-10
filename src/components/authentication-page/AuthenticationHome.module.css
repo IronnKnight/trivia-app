@@ -1,0 +1,38 @@
+.authentication-home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  margin-top:45vh;
+}
+
+.modal {
+  position: fixed;
+  background-color: #fff;
+  padding: 20px;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.header {
+  display: flex;
+  justify-content: end;
+  margin-bottom:10px;
+}
+
+.row {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+input[type="text"] {
+  padding: 5px;
+  outline: none;
+}

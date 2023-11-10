@@ -1,0 +1,12 @@
+.text {
+  margin-bottom: 2vh;
+}
+
+.compliance {
+  display: flex;
+  gap: 1vw;
+}
+
+.compliance > button {
+  flex: 1 1 0;
+}

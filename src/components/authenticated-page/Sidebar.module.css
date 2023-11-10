@@ -1,0 +1,31 @@
+.sidebar {
+  width: 9%;
+  margin-right: 1%;
+}
+
+.question-number {
+  text-align: right;
+  padding: 10%;
+  background-color: #737373;
+  margin-bottom: 0.5vh;
+  color: #fff;
+  cursor: pointer;
+}
+
+.question-number:last-of-type {
+  margin-bottom: 0;
+}
+
+.active {
+  background-color: #333;
+}
+
+.checked {
+  background-color: #ffff66;
+  color: #000;
+}
+
+.done {
+  background-color: #04AA6D;
+  color: #000;
+}
