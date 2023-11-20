@@ -1,0 +1,13 @@
+.row {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+input[type="text"],
+input[type="password"] {
+  padding: 5px;
+  outline: none;
+}

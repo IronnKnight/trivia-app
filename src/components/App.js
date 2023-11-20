@@ -1,9 +1,8 @@
 // import { useAuth } from '../context/auth-context';
 import { useState } from "react";
 import "./App.module.css";
-import AuthenticationHome from "./authentication-page/AuthenticationHome";
-import AuthenticatedHome from "./authenticated-page/AuthenticatedHome";
-// import AuthenticationHome from './authentication-page/AuthenticationHome';
+import AuthenticationHome from "./AuthenticationPage/AuthenticationHome/AuthenticationHome";
+import AuthenticatedHome from "./AuthenticatedPage/AuthenticatedHome/AuthenticatedHome";
 
 function App() {
   // const { isLoggedIn} = useAuth();

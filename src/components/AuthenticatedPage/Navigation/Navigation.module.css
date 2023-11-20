@@ -1,0 +1,12 @@
+.navigate {
+  margin-top: 2vh;
+  padding: 1vh 1vw;
+  display: flex;
+  justify-content: space-between;
+  gap: 2vw;
+}
+
+.navigate span {
+  display: flex;
+  gap: 1vw;
+}
